@@ -1,0 +1,292 @@
+canonical_identifier: bkk:krp/KR6q0519/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0519/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翼菴禪師語錄
+  identifiers:
+    krp: KR6q0519
+    cbeta: J37nB394
+    cbeta_old_id: J37nB394
+    authorityid: CA0006015
+    json_key: JB394
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J37/J37nB394.xml
+    old_id: J37nB394
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0519_000-J.yaml, hash: 'sha256:b1c0b4fdb30c38a6bfb3413d5ed78cfa3b35419029fc9f302cfcc6ff0262f8d3'}
+  - {seq: 1, filename: KR6q0519_001-J.yaml, hash: 'sha256:bf9b01cbd3c908ac0fa2f765e66dddaf8d5e4386e0a332eafa8fe9c136c1caa0'}
+  - {seq: 2, filename: KR6q0519_002-J.yaml, hash: 'sha256:746608387ac9a3a87040377c4b28bea114ba1e45bb933130b820553d1f91947d'}
+  - {seq: 3, filename: KR6q0519_003-J.yaml, hash: 'sha256:ed5a0cd52da8e0f34278defdee8f2f1531529d372aa7973717ca93fc2c30348f'}
+  - {seq: 4, filename: KR6q0519_004-J.yaml, hash: 'sha256:b63f30da4033d67166d4a3eae996fd33dc4f45fb107dc938d58933af5a027f1e'}
+  - {seq: 5, filename: KR6q0519_005-J.yaml, hash: 'sha256:c7c604e8fa6bec7e94f356f615dbef5bb70469a8f085dfa232aa1ca9791ace66'}
+  - {seq: 6, filename: KR6q0519_006-J.yaml, hash: 'sha256:614b0e747e5f5985e9377e3e414f0bd5986aab6335c6287e98abc04ea1459f47'}
+  - {seq: 7, filename: KR6q0519_007-J.yaml, hash: 'sha256:1ee986b24768b8eff0c0a5997c0a84ad68a7102d3f488a41b20f345e0a49caae'}
+  - {seq: 8, filename: KR6q0519_008-J.yaml, hash: 'sha256:8b5d0d88f315b4e03031fe3706d1845399d4c726b0eb85bd24accf3b6b508819'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0519_000-J.markers.yaml, hash: 'sha256:88d22ae8958fa777ae9f0d5293db242464fab83bde4fe6f2e72ed8907969a783'}
+  - {seq: 1, role: markers, filename: assets/KR6q0519_001-J.markers.yaml, hash: 'sha256:80cfd29e5c2ea7f64edbac89eb82632d59d8c2bbb971e3a0a3b055d508149bb8'}
+  - {seq: 2, role: markers, filename: assets/KR6q0519_002-J.markers.yaml, hash: 'sha256:72d015faebd2bd7023f322e9a04de1d2ce8f49b6d4757e7b406bd144c2a58e10'}
+  - {seq: 3, role: markers, filename: assets/KR6q0519_003-J.markers.yaml, hash: 'sha256:9e1b7645bba5ee8ff6b9a15d000300021e8185bcacd5d6605d2b48117654c1a3'}
+  - {seq: 4, role: markers, filename: assets/KR6q0519_004-J.markers.yaml, hash: 'sha256:7b45e02dfb8023e32d80b36e8c93be0cd0df09ea789ae2259d7183c02e7c1da6'}
+  - {seq: 5, role: markers, filename: assets/KR6q0519_005-J.markers.yaml, hash: 'sha256:24456fd01dd99d0721a4b03fe8d769a15951f8e59b7495eecf5de1a835223a14'}
+  - {seq: 6, role: markers, filename: assets/KR6q0519_006-J.markers.yaml, hash: 'sha256:35107289a130e8afee165e4ba30a56c4690d4c8dbfcd03d0f7ea432264d15443'}
+  - {seq: 7, role: markers, filename: assets/KR6q0519_007-J.markers.yaml, hash: 'sha256:f297c1fb04a3d097ee492769e2579f81f8b3771e389a061f88742bdde8c7dcbc'}
+  - {seq: 8, role: markers, filename: assets/KR6q0519_008-J.markers.yaml, hash: 'sha256:dadeb7af3350c244a076f1b31c1235f83a306f4d52d58f1961feee5116db59fb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0519_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 國清語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0519_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 8716
+  label: 翼菴禪師語錄卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0519_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住天台國清禪寺語錄一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0519_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 8011
+  label: 翼菴禪師國清語錄卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0519_J_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住天台國清禪寺語錄二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0519_J_002-mulu-2
+    span:
+    - body
+    - 8011
+    - 8011
+  label: 真如語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0519_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 7555
+  label: 翼菴禪師真如語錄卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0519_J_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住真如禪寺語錄一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0519_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 8132
+  label: 翼菴禪師真如語錄卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0519_J_004-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住真如禪寺語錄二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0519_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 9068
+  label: 翼菴禪師真如語錄卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0519_J_005-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住真如禪寺語錄三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0519_J_005-mulu-2
+    span:
+    - body
+    - 9068
+    - 9068
+  label: 通玄語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 8483
+  label: 翼菴禪師通玄語錄卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-mulu-1
+    span:
+    - body
+    - 7135
+    - 7135
+  label: 和寒山詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-mulu-2
+    span:
+    - body
+    - 7135
+    - 7135
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-mulu-3
+    span:
+    - body
+    - 7135
+    - 7135
+  label: 善酇序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-mulu-4
+    span:
+    - body
+    - 7474
+    - 7474
+  label: 閭丘胤序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0519_J_006-mulu-5
+    span:
+    - body
+    - 8483
+    - 8483
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0519_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 6540
+  label: 國清翼菴和尚和寒出詩卷之上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0519_J_007-mulu-1
+    span:
+    - body
+    - 6540
+    - 6540
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0519_J_008-juan-start
+    span:
+    - body
+    - 0
+    - 6858
+  label: 國清翼菴和尚和寒山詩卷之下
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0519_J_008-mulu-1
+    span:
+    - body
+    - 5666
+    - 5666
+  label: 附
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0519_J_008-mulu-2
+    span:
+    - body
+    - 5666
+    - 5666
+  label: 和豐干禪師詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0519_J_008-mulu-3
+    span:
+    - body
+    - 5913
+    - 5913
+  label: 和拾得大士詩
+  type: mulu
+  level: 1
+hash: sha256:4a96c8ce665b56d533ca0ab7b6ef666c3c743a182b3a5ff4a7b738f927605427

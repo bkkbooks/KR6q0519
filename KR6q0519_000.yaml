@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0519/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 國清語錄, id: KR6q0519_J_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翼菴禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J37/J37nB394.xml
+    old_id: J37nB394
+hash: sha256:b1c0b4fdb30c38a6bfb3413d5ed78cfa3b35419029fc9f302cfcc6ff0262f8d3
